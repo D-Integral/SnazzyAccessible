@@ -1,7 +1,7 @@
 # `pod lib lint SnazzyAccessibility.podspec'
 Pod::Spec.new do |s|
   s.name             = 'SnazzyAccessibility'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of SnazzyAccessibility.'
 
 # This description is used to generate tags and improve search results.
