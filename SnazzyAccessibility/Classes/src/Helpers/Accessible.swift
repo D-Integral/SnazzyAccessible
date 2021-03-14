@@ -8,7 +8,6 @@
 
 import Foundation
 
-// TODO: Move to another framework
 public protocol Accessible: class {
 }
 
