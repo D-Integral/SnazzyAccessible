@@ -17,7 +17,7 @@ pod 'SnazzyAccessibility'
 
 ## Author
 
-Santiago Apaza, santi.d@hey.com
+Dmytro Skorokhod, dima@noteworth.com
 
 ## License
 
